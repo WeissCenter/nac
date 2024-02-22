@@ -1,3 +1,4 @@
+![Weiss-Logo+Name](https://github.com/WeissCenter/nac/assets/138719250/aca1cce6-3f1e-40f4-a43f-b941fa674d84)
 # Weiss Center National Advisory Council (NAC) Archive
 Meeting materials are linked below:
  - August 24, 2023 [Kick Off Meeting Agenda](https://github.com/WeissCenter/nac/raw/main/NAC-Kickoff-Agenda_082423.docx) and [Kick Off Meeting Slides](https://github.com/WeissCenter/nac/raw/main/NAC-Kickoff_082423.pptx) - updated on 08/24/2023
